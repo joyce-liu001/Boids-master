@@ -28,3 +28,4 @@ Governs individual fish behavior, applying the separation, alignment, cohesion r
 Handles global parameters such as tank bounds, the number of fish, and the shared goal position.
 
 ## Demo on Youtube
+https://youtu.be/Gn-lDyM6e7k
