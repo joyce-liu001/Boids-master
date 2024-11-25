@@ -1,6 +1,9 @@
 # Unity Flocking Simulation
 This project is a flocking simulation in Unity that models the behavior of fish-like entities in a 3D environment. The simulation implements flocking algorithms based on separation, alignment, and cohesion principles to create realistic group dynamics. Additionally, the simulation includes interactive user controls and environmental constraints, such as wall avoidance.
 
+## Project Link
+https://github.com/joyce-liu001/Boids-master.git
+
 ## Features
 - **Flocking Behavior**: Fish follow classic flocking rules:
   - **Separation**: Maintain a safe distance from other fish to avoid crowding.
